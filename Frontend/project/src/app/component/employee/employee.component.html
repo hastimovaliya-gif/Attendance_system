@@ -1,0 +1,46 @@
+<h3>Employees</h3>
+
+<div class="card p-3 mb-3">
+  <form [formGroup]="form" (ngSubmit)="submit()">
+    <div class="row g-2">
+      <div class="col">
+        <input class="form-control" placeholder="First Name" formControlName="firstName">
+      </div>
+      <div class="col">
+        <input class="form-control" placeholder="Last Name" formControlName="lastName">
+      </div>
+      <div class="col">
+        <input class="form-control" placeholder="Email" formControlName="email">
+      </div>
+      <div class="col">
+        <select class="form-select" formControlName="policyId" aria-placeholder>
+          <option value="">Select Policy</option>
+          <option *ngFor="let p of [1,2,3]" [value]="p">
+            {{p}}
+          </option>
+        </select>
+      </div>
+    </div>
+
+    <button class="btn btn-primary mt-2">Create</button>
+    <div class="text-danger mt-2">{{error}}</div>
+  </form>
+</div>
+
+<table class="table table-bordered">
+  <thead class="table-dark">
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Policy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let e of employees">
+      <td>{{e.firstName}} {{e.lastName}}</td>
+      <td>{{e.email}}</td>
+      <td>{{e.policyId}}</td>
+    </tr>
+  </tbody>
+</table>
+

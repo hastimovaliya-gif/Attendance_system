@@ -1,0 +1,40 @@
+
+<h3>Daily Attendance Report</h3>
+
+<div class="row mb-3">
+  <div class="col-4">
+    <input type="date" class="form-control" [(ngModel)]="date">
+  </div>
+  <div class="col">
+    <button class="btn btn-primary" (click)="load()">Load Report</button>
+  </div>
+</div>
+
+<table class="table table-striped" *ngIf="report.length">
+  <thead class="table-dark">
+    <tr>
+      <th>Name</th>
+      <th>Policy</th>
+      <th>Min Hours</th>
+      <th>Status</th>
+      <th>Worked</th>
+      <th>Flag</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let r of report">
+      <td>{{r.fullName}}</td>
+      <td>{{r.policyName}}</td>
+      <td>{{r.minDailyHours}}</td>
+      <td>{{r.status}}</td>
+      <td>{{r.hoursWorked}}</td>
+      <td>
+        <span class="badge"
+              [class.bg-success]="r.dailyFlag === 'OK'"
+              [class.bg-danger]="r.dailyFlag === 'PolicyViolation'">
+          {{r.dailyFlag}}
+        </span>
+      </td>
+    </tr>
+  </tbody>
+</table>

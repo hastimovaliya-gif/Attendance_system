@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\repository\\implementations\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:repository\\implementations\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\repository\\implementations\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:repository\\implementations\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\model\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:model\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\repository\\interface\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:repository\\interface\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\interface\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:services\\interface\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:services\\implementation\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\interface\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:services\\interface\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\implementation\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:services\\implementation\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\repository\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:repository\\implementations\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\repository\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:repository\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\implementation\\attendancemarking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:services\\implementation\\attendancemarking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\repository\\interface\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:repository\\interface\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\demoapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:demoapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\dtos\\dailyattendancereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:dtos\\dailyattendancereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\dtos\\attendancecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:dtos\\attendancecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\dtos\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:dtos\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\model\\attendancerecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:model\\attendancerecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Migrations\\20260227050609_e1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260227050609_e1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|c:\\users\\hasti.movaliya\\source\\repos\\demoapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7491D16-68D1-6866-E8FC-3055C5323F7E}|demoapplication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\interface\\IReportRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\interface\\IReportRepository.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\interface\\IReportRepository.cs",
+              "RelativeToolTip": "Repository\\interface\\IReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:50:46.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\implementations\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementations\\AttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\implementations\\AttendanceRepository.cs",
+              "RelativeToolTip": "Repository\\implementations\\AttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:40:31.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\interface\\IReportService.cs",
+              "RelativeDocumentMoniker": "services\\interface\\IReportService.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\interface\\IReportService.cs",
+              "RelativeToolTip": "services\\interface\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:33:19.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\implementation\\ReportService.cs",
+              "RelativeDocumentMoniker": "services\\implementation\\ReportService.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\implementation\\ReportService.cs",
+              "RelativeToolTip": "services\\implementation\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:34:38.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:33:13.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\implementation\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "services\\implementation\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\implementation\\EmployeeService.cs",
+              "RelativeToolTip": "services\\implementation\\EmployeeService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:29:39.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\interface\\IAttendanceService.cs",
+              "RelativeDocumentMoniker": "services\\interface\\IAttendanceService.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\interface\\IAttendanceService.cs",
+              "RelativeToolTip": "services\\interface\\IAttendanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:13:33.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\implementations\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementations\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\implementations\\ReportRepository.cs",
+              "RelativeToolTip": "Repository\\implementations\\ReportRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:48:53.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Model\\Policy.cs",
+              "RelativeDocumentMoniker": "Model\\Policy.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Model\\Policy.cs",
+              "RelativeToolTip": "Model\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:39:07.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:28:14.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:32:23.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "services\\interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\interface\\IEmployeeService.cs",
+              "RelativeToolTip": "services\\interface\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:28:42.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\interface\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\interface\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\interface\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\interface\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:46:36.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\implementations\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\implementations\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\implementations\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\implementations\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:47:31.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\interface\\IAttendanceRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\interface\\IAttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Repository\\interface\\IAttendanceRepository.cs",
+              "RelativeToolTip": "Repository\\interface\\IAttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:39:43.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:26:42.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttendanceMarking.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\implementation\\AttendanceMarking.cs",
+              "RelativeDocumentMoniker": "services\\implementation\\AttendanceMarking.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\services\\implementation\\AttendanceMarking.cs",
+              "RelativeToolTip": "services\\implementation\\AttendanceMarking.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:16:34.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "demoapplication.http",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\demoapplication.http",
+              "RelativeDocumentMoniker": "demoapplication.http",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\demoapplication.http",
+              "RelativeToolTip": "demoapplication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-27T07:44:09.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DailyAttendanceReport.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\DTOs\\DailyAttendanceReport.cs",
+              "RelativeDocumentMoniker": "DTOs\\DailyAttendanceReport.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\DTOs\\DailyAttendanceReport.cs",
+              "RelativeToolTip": "DTOs\\DailyAttendanceReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:36:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AttendanceCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\DTOs\\AttendanceCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AttendanceCreateDto.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\DTOs\\AttendanceCreateDto.cs",
+              "RelativeToolTip": "DTOs\\AttendanceCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:17:26.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Model\\Employee.cs",
+              "RelativeToolTip": "Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:39:38.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:46:54.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\DTOs\\EmployeeCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmployeeCreateDto.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\DTOs\\EmployeeCreateDto.cs",
+              "RelativeToolTip": "DTOs\\EmployeeCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:25:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AttendanceRecords.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Model\\AttendanceRecords.cs",
+              "RelativeDocumentMoniker": "Model\\AttendanceRecords.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Model\\AttendanceRecords.cs",
+              "RelativeToolTip": "Model\\AttendanceRecords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:39:56.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260227050609_e1.cs",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Migrations\\20260227050609_e1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260227050609_e1.cs",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\Migrations\\20260227050609_e1.cs",
+              "RelativeToolTip": "Migrations\\20260227050609_e1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:06:10.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T04:22:27.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

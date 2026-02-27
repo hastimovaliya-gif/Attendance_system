@@ -1,0 +1,29 @@
+<h3>Mark Attendance</h3>
+
+<div class="card p-3">
+  <form [formGroup]="form" (ngSubmit)="submit()">
+    <select class="form-select mb-2" formControlName="employeeId" aria-placeholder="">
+      <option value="">Select Employee</option>
+      <option *ngFor="let e of employees" [value]="e.employeeId">
+        {{e.firstName}} {{e.lastName}}
+      </option>
+    </select>
+
+    <input type="date" class="form-control mb-2" formControlName="attendanceDate">
+
+    <select class="form-select mb-2" formControlName="status" (change)="onStatusChange()">
+      <option>Present</option>
+      <option>Absent</option>
+      <option>ShortHours</option>
+    </select>
+
+    <input type="number"
+           class="form-control mb-2"
+           formControlName="hoursWorked"
+           [disabled]="form.value.status === 'Absent'">
+
+    <button class="btn btn-success">Submit</button>
+  </form>
+</div>
+
+
