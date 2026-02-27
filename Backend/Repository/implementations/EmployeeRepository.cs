@@ -8,10 +8,11 @@ namespace demoapplication.Repository
         private readonly AppDbContext _context;
         public EmployeeRepository(AppDbContext context) => _context = context;
 
-
+        //bcz of read add no tracking
         public async Task<List<Employee>> GetAllAsync1()
             => await _context.Employees
                 .Include(e => e.Policy)
+                .AsNoTracking()
                 .ToListAsync();
 
         

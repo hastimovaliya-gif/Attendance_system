@@ -3619,11 +3619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\demoapplication.csproj",
+      "projectUniqueName": "D:\\Attendance_System\\Backend\\demoapplication.csproj",
       "projectName": "demoapplication",
-      "projectPath": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\demoapplication.csproj",
+      "projectPath": "D:\\Attendance_System\\Backend\\demoapplication.csproj",
       "packagesPath": "C:\\Users\\hasti.movaliya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hasti.movaliya\\source\\repos\\demoapplication\\obj\\",
+      "outputPath": "D:\\Attendance_System\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
